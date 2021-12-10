@@ -2,7 +2,7 @@
 
 ### Project Overview
 - Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths.
-- The model built can evaluate images and alert the dermatologists about the presence of melanoma, which has the potential to reduce a lot of manual effort needed in diagnosis.
+- The model built can evaluate images and can be used to alert the dermatologists about the presence of melanoma, which has the potential to reduce a lot of manual effort needed in diagnosis.
 - The dataset used was put together by the **International Skin Imaging Collaboration (ISIC).**
 - Data imbalance was handled using the **Augmentor** python package.
 - Since the number of images for training was less, Data augmentation techniques such as **Flipping, Random Zoom, Contrast** was done to produce more similar images.
