@@ -11,13 +11,13 @@
 - Training accuracy of **85%** and Validation accuracy of **80%** was achieved.
 
 ### Different Types of Skin Cancer:
-![skin_cancer](/images/skin_cancer.jpg)
+![skin_cancer](/images/skin_cancer.png)
 
 ### Class Imbalance:
-![data_imbalance](/images/class_im.jpg)
+![data_imbalance](/images/class_im.png)
 
 ### Data Augmentation:
-![data_augmentation](/images/data_aug.jpg)
+![data_augmentation](/images/data_aug.png)
 
 ### Final Accuracy and Loss:
-![final_result](/images/final_acc.jpg)
+![final_result](/images/final_acc.png)
